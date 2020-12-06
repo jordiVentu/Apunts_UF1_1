@@ -83,7 +83,23 @@ es un codigo de interpretado el cual al compilarse de transforma en bytecode
 ### Declarativos indicamos el resultado a obtener sin especificar los pasos
 ### Imperativos indicamos los pasos a deauir para obener un resultado
 
-
+##Criterios para la selecion de un lenguaje
+- Diseño arquitectónico 
+- Diseño detallado 
+- Diseño de datos 
+- Diseño de interfazCampo de aplicación 
+- Experiencia previa 
+- Herramientas de desarrollo 
+- Documentación disponible 
+- Base de usuarios 
+- Reusabilidad 
+- Portabilidad 
+- Imposición del cliente
+## EVOLUCION
+- Código binario 
+- Ensamblador 
+- Lenguajes estructurados 
+- Lenguajes orientados a objetos
 
 
 
