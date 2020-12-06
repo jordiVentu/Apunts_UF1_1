@@ -32,6 +32,12 @@ Esta tiene la caracterisitca de estar integrada al programa
 - JDK: necesario para desarollar programas
  Herramientas: javac,jar,javadoc
 
+### Archivos de contrucccion
+- buildfiles
+make: Makefile 
+ninja: build.ninja 
+ant: build.xml
+
 ## Construir build
 Equipo local
 Servidor de construccion
